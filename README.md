@@ -30,8 +30,8 @@ I am a Computer Science Student documenting my journey from university theory to
 
 | Repository | Description | Status |
 | :--- | :--- | :--- |
-| [**Security-Plus-Lab-Journal**](#) | My daily log of practical labs verifying SYO-701 concepts (Hashing, ACLs, Firewall rules). | 🔴 Active |
-| [**Linux-Fundamentals**](#) | Scripts and notes from my deep dive into Linux internals. | 🟡 Building |
+| [**Security-Plus-Lab-Journal**](https://github.com/mmmaalek1/Security-Plus-Lab-Journal) | My daily log of practical labs verifying SYO-701 concepts (Hashing, ACLs, Firewall rules). | 🔴 Active |
+| [**Linux-Fundamentals**](https://github.com/mmmaalek1/Linux-Fundamentals) | Scripts and notes from my deep dive into Linux internals. | 🟡 Building |
 
 <h2> 🤳 Connect with me:</h2>
 
