@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**mmmaalek1/mmmaalek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Malek! </h1>
+<h2>👨‍💻 CS Student | Security+ Candidate | Linux & Network Defense
+</h2>
+"Trust but Verify"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> About Me :</h3>
+I am a Computer Science Student documenting my journey from university theory to practical cybersecurity operations. I don't just memorize definitions; I verify them in the lab.
+ <br>
+
+<h3> Current Focus: :</h3>
+
+
+🔴 CompTIA Security+ (SY0-701)
+ <br>
+
+🔴 Lab Setup: VirtualBox (Ubuntu Server)
+ <br>
+ ## 🛠️ The Arsenal
+
+| Category | Tools & Platforms |
+| :--- | :--- |
+| **Operating Systems** | Linux (Ubuntu), Windows Server |
+| **Network Analysis** | Wireshark, Nmap, TCP/IP Utilities |
+| **Defense & Crypto** | UFW (Firewall), OpenSSL, Systemd |
+| **Languages** | Python, Bash Scripting |
+
+## 📂 Active Projects
+
+| Repository | Description | Status |
+| :--- | :--- | :--- |
+| [**Security-Plus-Lab-Journal**](#) | My daily log of practical labs verifying SYO-701 concepts (Hashing, ACLs, Firewall rules). | 🔴 Active |
+| [**Linux-Fundamentals**](#) | Scripts and notes from my deep dive into Linux internals. | 🟡 Building |
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="malek-mahmoudi-961711177 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/malek-mahmoudi-961711177/
+
