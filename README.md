@@ -17,15 +17,8 @@ I am a Computer Science student starting my cybersecurity journey. Learning netw
 
 🔴 Lab Setup: VirtualBox (Ubuntu Server)
  <br>
- ## 🛠️ The Arsenal
-
-| Category | Tools & Platforms |
-| :--- | :--- |
-| **Operating Systems** | Linux (Ubuntu), Windows Server |
-| **Network Analysis** | Wireshark, Nmap, TCP/IP Utilities |
-| **Defense & Crypto** | UFW (Firewall), OpenSSL, Systemd |
-| **Languages** | Python, Bash Scripting |
-
+ <br>
+**Current Learning Path:** `CompTIA Security+` `Linux Command Line` `Virtualization`
 ## 📂 Active Projects
 
 | Repository | Description | Status |
