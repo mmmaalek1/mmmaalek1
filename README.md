@@ -35,7 +35,7 @@ I am a Computer Science student starting my cybersecurity journey. Learning netw
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="malek-mahmoudi-961711177 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="malek-mahmoudi-sec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/malek-mahmoudi-961711177/
+[linkedin]: https://www.linkedin.com/in/malek-mahmoudi-sec/
 
