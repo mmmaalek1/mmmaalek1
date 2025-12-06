@@ -15,7 +15,7 @@ I am a Computer Science student starting my cybersecurity journey. Learning netw
 🔴 CompTIA Security+ (SY0-701)
  <br>
 
-🔴 Lab Setup: VirtualBox (Ubuntu Server)
+🔴 Lab Setup: VirtualBox (Ubuntu Server-kali Linux)
  <br>
  <br>
 **Current Learning Path:** `CompTIA Security+` `Linux Command Line` `Virtualization`
