@@ -6,7 +6,7 @@
 
 
 <h3> About Me :</h3>
-I am a Computer Science Student documenting my journey from university theory to practical cybersecurity operations. I don't just memorize definitions; I verify them in the lab.
+I am a Computer Science student starting my cybersecurity journey. Learning networking, Ubuntu Linux, and ethical hacking while documenting everything I learn. Aiming for a Security Analyst role.
  <br>
 
 <h3> Current Focus: :</h3>
